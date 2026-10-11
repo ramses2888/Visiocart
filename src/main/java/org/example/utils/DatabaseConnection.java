@@ -6,7 +6,7 @@ import java.sql.SQLException;
 public class DatabaseConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/visiocart_db";
     private static final String USER = "root"; // tu usuario
-    private static final String PASSWORD = "Pinina2027@2"; // tu clave
+    private static final String PASSWORD = "Rspviqldo2027@2"; // tu clave
     public static Connection getConnection() throws SQLException {
         try {
             // Fuerza la carga del driver JDBC de MySQL
